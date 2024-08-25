@@ -1,3 +1,14 @@
+[Back to index page](https://pip-01.github.io/CyberSec/)
+
+  
+## <u>Incident Response and Forensics</u>  
+
+#### Course Outline:
+  
+[1. Cybersecurity Incident Response](https://pip-01.github.io/CyberSec/Incident-Response-and-Forensics#key-phases-of-incident-response)  
+[2. Cybersecurity Forensics](https://pip-01.github.io/CyberSec/Incident-Response-and-Forensics#2-cybersecurity-forensics)  
+
+---
 
 Cybersecurity incident response and forensics are critical components in protecting organizations from cyber threats. Understanding these concepts can help you effectively respond to incidents, analyze breaches, and prevent future occurrences.
 
@@ -89,7 +100,7 @@ By understanding both cybersecurity incident response processes alongside forens
 
 Cybersecurity incident response and forensics is a structured approach to managing and mitigating the consequences of cybersecurity incidents. The goal is to handle the situation in a way that limits damage, reduces recovery time, and minimizes costs. Understanding this process involves several key stages:
 
-##### 1. Cybersecurity Incident Response
+### 1. Cybersecurity Incident Response
 
 This refers to the methods used by organizations to prepare for, detect, contain, and recover from cybersecurity incidents. A well-defined incident response plan helps ensure that an organization can quickly respond effectively when a security breach occurs.
 
