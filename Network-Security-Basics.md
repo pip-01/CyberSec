@@ -5,15 +5,15 @@
 
 #### Course Outline:
   
-[1.1 Introduction to Network Security]()  
-[1.2 Types of Network Threats]()  
-[1.3 Network Security Measures]()  
-[1.4 Network Security Protocols]()  
-[1.5 Firewalls and VPNs]()  
-[1.6 Intrusion Detection and Prevention Systems]()  
-[1.7 Network Security Best Practices]()  
-[1.8 Wireless Network Security]()  
-[1.9 Securing Network Devices]()  
+[1.1 Introduction to Network Security](https://pip-01.github.io/CyberSec/Network-Security-Basics#1-introduction-to-network-security)  
+[1.2 Types of Network Threats](https://pip-01.github.io/CyberSec/Network-Security-Basics#12-types-of-network-threats)  
+[1.3 Network Security Measures](https://pip-01.github.io/CyberSec/Network-Security-Basics#13-network-security-measures)  
+[1.4 Network Security Protocols](https://pip-01.github.io/CyberSec/Network-Security-Basics#14-network-security-protocols)  
+[1.5 Firewalls and VPNs](https://pip-01.github.io/CyberSec/Network-Security-Basics#15-firewalls-and-vpns)  
+[1.6 Intrusion Detection and Prevention Systems](https://pip-01.github.io/CyberSec/Network-Security-Basics#16-intrusion-detection-and-prevention-systems)  
+[1.7 Network Security Best Practices](https://pip-01.github.io/CyberSec/Network-Security-Basics#17-network-security-best-practices)  
+[1.8 Wireless Network Security](https://pip-01.github.io/CyberSec/Network-Security-Basics#18-wireless-network-security)  
+[1.9 Securing Network Devices](https://pip-01.github.io/CyberSec/Network-Security-Basics#19-securing-network-devices)  
 [1.10 Network Security Policies and Procedures]()  
 
 ---
@@ -63,6 +63,8 @@ Cybersecurity is a critical field that focuses on protecting computer systems, n
 Understanding these basics provides a solid foundation in cybersecurity network security principles essential for protecting digital assets against various threats. By implementing effective measures such as firewalls, encryption, robust authentication methods, best practices for employee behavior, incident response strategies, and continuous monitoring efforts; organizations can significantly enhance their overall cybersecurity posture while ensuring safe operations across their networks.
 
 Network security is a critical component of cybersecurity that focuses on protecting the integrity, confidentiality, and availability of computer networks. This overview will guide you through essential concepts in network security, outlining key areas to understand.
+
+---
 
 ##### 1. Introduction to Network Security  
 Network security involves implementing measures to protect data during transmission over networks. Think of it as locking your doors and windows at home; just as you want to keep intruders out, you want to prevent unauthorized access to your digital information.
@@ -151,7 +153,7 @@ All devices connected to a network must be secured effectively:
 
 ---
 
- ##### 1.10 Network Security Policies and Procedures
+##### 1.10 Network Security Policies and Procedures
 Establishing clear policies ensures everyone understands their role in maintaining security within an organization:
  
  - Create guidelines covering acceptable use policies regarding company resources,
