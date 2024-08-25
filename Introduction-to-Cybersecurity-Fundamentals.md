@@ -7,18 +7,18 @@
 #### Course Outline:
   
 [1. Overview of Cybersecurity](https://pip-01.github.io/CyberSec/Introduction-to-Cybersecurity-Fundamentals#1-overview-of-cybersecurity))  
-[2. Types of Cyber Threats][(https://pip-01.github.io/CyberSec/2. Types of Cyber Threats)]
-[3. Cybersecurity Principles](https://pip-01.github.io/CyberSec/Introduction-to-Cybersecurity-Fundamentals#3-cybersecurity-principles)
-[4. Cybersecurity Frameworks]
-[5. Cybersecurity Technologies]
-[6. Network Security]
-[7. Application Security]
-[8. Data Security]
-[9. Identity and Access Management (IAM)]
-[10. Incident Response and Management]
-[11. Security Policies and Procedures]
-[12. Ethical and Legal Issues in Cybersecurity]
-[]
+[2. Types of Cyber Threats](https://pip-01.github.io/CyberSec/2. Types of Cyber Threats)  
+[3. Cybersecurity Principles](https://pip-01.github.io/CyberSec/Introduction-to-Cybersecurity-Fundamentals#3-cybersecurity-principles)  
+[4. Cybersecurity Frameworks](https://pip-01.github.io/CyberSec/Introduction-to-Cybersecurity-Fundamentals#4-cybersecurity-frameworks)  
+[5. Cybersecurity Technologies](https://pip-01.github.io/CyberSec/Introduction-to-Cybersecurity-Fundamentals#5-cybersecurity-technologies)  
+[6. Network Security](https://pip-01.github.io/CyberSec/Introduction-to-Cybersecurity-Fundamentals#6-network-security)  
+[7. Application Security](https://pip-01.github.io/CyberSec/Introduction-to-Cybersecurity-Fundamentals#7-application-security)  
+[8. Data Security](https://pip-01.github.io/CyberSec/Introduction-to-Cybersecurity-Fundamentals#8-data-security)  
+[9. Identity and Access Management (IAM)](https://pip-01.github.io/CyberSec/Introduction-to-Cybersecurity-Fundamentals#9-identity-and-access-management-iam)  
+[10. Incident Response and Management](https://pip-01.github.io/CyberSec/Introduction-to-Cybersecurity-Fundamentals#10-incident-response-and-management)  
+[11. Security Policies and Procedures](https://pip-01.github.io/CyberSec/Introduction-to-Cybersecurity-Fundamentals#11-security-policies-and-procedures)  
+[12. Ethical and Legal Issues in Cybersecurity](https://pip-01.github.io/CyberSec/Introduction-to-Cybersecurity-Fundamentals#12-ethical-and-legal-issues-in-cybersecurity)  
+[13. Emerging Trends in Cybersecurity](https://pip-01.github.io/CyberSec/Introduction-to-Cybersecurity-Fundamentals#13-emerging-trends-in-cybersecurity)  
 
 ---
   
@@ -205,7 +205,7 @@ A **zero-day exploit** takes advantage of vulnerabilities in software before dev
 
 ---
 
-### 3. Cybersecurity Principles
+### 3. Cybersecurity Principles  
 
 Understanding these fundamental concepts helps build awareness around potential risks associated with technology use today! By recognizing these threats early on, individuals and organizations can take proactive measures towards safeguarding their digital environments effectively.
 In today's digital age, protecting information and systems from cyber threats is crucial. Cybersecurity principles serve as the foundation for safeguarding data and ensuring the smooth operation of technology. Understanding these principles helps individuals and organizations defend against potential attacks.
@@ -269,6 +269,8 @@ When you sign an electronic contract using a digital signature service (like Doc
 ### Conclusion 
 
 Understanding these cybersecurity principles—confidentiality, integrity, availability, and non-repudiation—is essential for anyone involved in managing or securing digital assets today. By applying these concepts effectively within organizations or personal practices, we can create safer environments for our critical information against various cyber threats.
+
+---
 
 ### 4. Cybersecurity Frameworks
 
