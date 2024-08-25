@@ -7,15 +7,15 @@
   
 [1. Network Security Tools](https://pip-01.github.io/CyberSec/Tools-and-Platforms#1-network-security-tools)  
 [2. Endpoint Security Tools](https://pip-01.github.io/CyberSec/Tools-and-Platforms#2-endpoint-security-tools)  
-[3. Identity and Access Management (IAM) Tools]()  
-[4. Security Information and Event Management (SIEM)]()  
-[5. Vulnerability Management Tools]()  
-[6. Data Protection Tools]()  
-[7. Threat Intelligence Platforms]()  
-[8. Secure DevOps Tools]()  
-[9. Cloud Security Tools]()  
-[10. Incident Response Tools]()  
-[11. Security Awareness and Training]()  
+[3. Identity and Access Management (IAM) Tools](https://pip-01.github.io/CyberSec/Tools-and-Platforms#3-identity-and-access-management-iam-tools)  
+[4. Security Information and Event Management (SIEM)](https://pip-01.github.io/CyberSec/Tools-and-Platforms#4-security-information-and-event-management-siem)  
+[5. Vulnerability Management Tools](https://pip-01.github.io/CyberSec/Tools-and-Platforms#5-vulnerability-management-tools)  
+[6. Data Protection Tools](https://pip-01.github.io/CyberSec/Tools-and-Platforms#6-data-protection-tools)  
+[7. Threat Intelligence Platforms](https://pip-01.github.io/CyberSec/Tools-and-Platforms#7-threat-intelligence-platforms)  
+[8. Secure DevOps Tools](https://pip-01.github.io/CyberSec/Tools-and-Platforms#8-secure-devops-tools)  
+[9. Cloud Security Tools](https://pip-01.github.io/CyberSec/Tools-and-Platforms#9-cloud-security-tools)  
+[10. Incident Response Tools](https://pip-01.github.io/CyberSec/Tools-and-Platforms#10-incident-response-tools)  
+[11. Security Awareness and Training](https://pip-01.github.io/CyberSec/Tools-and-Platforms#11-security-awareness-and-training)  
 
 ---
 In today's digital age, cybersecurity is more critical than ever. With the increasing number of cyber threats, organizations need to employ various tools and platforms to protect their data, networks, and systems. This overview will break down the essential components of cybersecurity tools and platforms, including their types, functionalities, and importance.
