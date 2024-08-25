@@ -2,13 +2,24 @@
 
   
 
-## <u>Introduction to Cybersecurity Fundamentals</u>
+## <u>Introduction to Cybersecurity Fundamentals</u>  
 
 #### Course Outline:
   
-[1. Introduction to Cybersecurity Fundamentals](https://pip-01.github.io/CyberSec/Introduction-to-Cybersecurity-Fundamentals)  
-[2. Types of Cyber Threats](https://pip-01.github.io/CyberSec/2. Types of Cyber Threats)
+[1. Overview of Cybersecurity](https://pip-01.github.io/CyberSec/Introduction-to-Cybersecurity-Fundamentals#1-overview-of-cybersecurity))  
+[2. Types of Cyber Threats][(https://pip-01.github.io/CyberSec/2. Types of Cyber Threats)](https://pip-01.github.io/CyberSec/Introduction-to-Cybersecurity-Fundamentals#2-types-of-cyber-threats)
+[3. Cybersecurity Principles]()
 []()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+
 ---
   
 <img align="right" src="imgOSINT Introduction.jpg" alt="drawing" width="300"/>
@@ -193,6 +204,8 @@ A **zero-day exploit** takes advantage of vulnerabilities in software before dev
 *Example:* If hackers discover flaws in widely-used software like Adobe Reader but no fix has been released yet, they might use this vulnerability right away before anyone knows how to defend against it effectively!
 
 ---
+
+### 3. Cybersecurity Principles
 
 Understanding these fundamental concepts helps build awareness around potential risks associated with technology use today! By recognizing these threats early on, individuals and organizations can take proactive measures towards safeguarding their digital environments effectively.
 In today's digital age, protecting information and systems from cyber threats is crucial. Cybersecurity principles serve as the foundation for safeguarding data and ensuring the smooth operation of technology. Understanding these principles helps individuals and organizations defend against potential attacks.
