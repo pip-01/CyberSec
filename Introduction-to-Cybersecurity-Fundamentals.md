@@ -6,8 +6,8 @@
 
 #### Course Outline:
   
-[1. Overview of Cybersecurity](https://pip-01.github.io/CyberSec/Introduction-to-Cybersecurity-Fundamentals#1-overview-of-cybersecurity))  
-[2. Types of Cyber Threats](https://pip-01.github.io/CyberSec/2. Types of Cyber Threats)  
+[1. Overview of Cybersecurity](https://pip-01.github.io/CyberSec/Introduction-to-Cybersecurity-Fundamentals#1-overview-of-cybersecurity)  
+[2. Types of Cyber Threats]([https://pip-01.github.io/CyberSec/2. Types of Cyber Threats](https://pip-01.github.io/CyberSec/Introduction-to-Cybersecurity-Fundamentals#2-types-of-cyber-threats)  
 [3. Cybersecurity Principles](https://pip-01.github.io/CyberSec/Introduction-to-Cybersecurity-Fundamentals#3-cybersecurity-principles)  
 [4. Cybersecurity Frameworks](https://pip-01.github.io/CyberSec/Introduction-to-Cybersecurity-Fundamentals#4-cybersecurity-frameworks)  
 [5. Cybersecurity Technologies](https://pip-01.github.io/CyberSec/Introduction-to-Cybersecurity-Fundamentals#5-cybersecurity-technologies)  
