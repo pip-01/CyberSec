@@ -11,7 +11,8 @@
 * [1.3 Containment](https://pip-01.github.io/CyberSec/Incident-Response-and-Forensics#13-containment)  
 * [1.4 Eradication](https://pip-01.github.io/CyberSec/Incident-Response-and-Forensics#14-eradication)  
 * [1.5 Recovery](https://pip-01.github.io/CyberSec/Incident-Response-and-Forensics#15-recovery)  
-* [1.6 Lessons Learned](https://pip-01.github.io/CyberSec/Incident-Response-and-Forensics#16-lessons-learned)  
+* [1.6 Lessons Learned](https://pip-01.github.io/CyberSec/Incident-Response-and-Forensics#16-lessons-learned)
+   
 [2. Cybersecurity Forensics](https://pip-01.github.io/CyberSec/Incident-Response-and-Forensics#2-cybersecurity-forensics)  
 * [2.1 Evidence Collection](https://pip-01.github.io/CyberSec/Incident-Response-and-Forensics#21-evidence-collection)  
 * [2.2 Evidence Preservation](https://pip-01.github.io/CyberSec/Incident-Response-and-Forensics#22-evidence-preservation)  
