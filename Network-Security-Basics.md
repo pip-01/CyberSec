@@ -14,7 +14,7 @@
 [1.7 Network Security Best Practices](https://pip-01.github.io/CyberSec/Network-Security-Basics#17-network-security-best-practices)  
 [1.8 Wireless Network Security](https://pip-01.github.io/CyberSec/Network-Security-Basics#18-wireless-network-security)  
 [1.9 Securing Network Devices](https://pip-01.github.io/CyberSec/Network-Security-Basics#19-securing-network-devices)  
-[1.10 Network Security Policies and Procedures]()  
+[1.10 Network Security Policies and Procedures](https://pip-01.github.io/CyberSec/Network-Security-Basics#110-network-security-policies-and-procedures)  
 
 ---
 
