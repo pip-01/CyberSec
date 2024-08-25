@@ -7,18 +7,18 @@
 #### Course Outline:
   
 [1. Overview of Cybersecurity](https://pip-01.github.io/CyberSec/Introduction-to-Cybersecurity-Fundamentals#1-overview-of-cybersecurity))  
-[2. Types of Cyber Threats][(https://pip-01.github.io/CyberSec/2. Types of Cyber Threats)](https://pip-01.github.io/CyberSec/Introduction-to-Cybersecurity-Fundamentals#2-types-of-cyber-threats)
-[3. Cybersecurity Principles]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+[2. Types of Cyber Threats][(https://pip-01.github.io/CyberSec/2. Types of Cyber Threats)]
+[3. Cybersecurity Principles](https://pip-01.github.io/CyberSec/Introduction-to-Cybersecurity-Fundamentals#3-cybersecurity-principles)
+[4. Cybersecurity Frameworks]
+[5. Cybersecurity Technologies]
+[6. Network Security]
+[7. Application Security]
+[8. Data Security]
+[9. Identity and Access Management (IAM)]
+[10. Incident Response and Management]
+[11. Security Policies and Procedures]
+[12. Ethical and Legal Issues in Cybersecurity]
+[]
 
 ---
   
@@ -270,6 +270,8 @@ When you sign an electronic contract using a digital signature service (like Doc
 
 Understanding these cybersecurity principles—confidentiality, integrity, availability, and non-repudiation—is essential for anyone involved in managing or securing digital assets today. By applying these concepts effectively within organizations or personal practices, we can create safer environments for our critical information against various cyber threats.
 
+### 4. Cybersecurity Frameworks
+
 Cybersecurity frameworks are structured guidelines that help organizations manage and reduce their cybersecurity risks. They provide a systematic approach for organizations to understand their security posture, prioritize actions, and improve their overall security practices. In this overview, we will discuss three prominent cybersecurity frameworks: the NIST Cybersecurity Framework, ISO/IEC 27001, and CIS Controls.
 
 ##### 4.1 NIST Cybersecurity Framework
@@ -318,7 +320,9 @@ A mid-sized company may implement CIS Control #1 by creating an inventory list o
 Understanding these frameworks allows organizations at any level—from small businesses to large enterprises—to develop robust strategies tailored toward enhancing their cybersecurity posture effectively. By applying these principles through practical examples relevant to real-world scenarios, individuals can better grasp how each framework operates within different contexts in today's digital landscape.
 Cybersecurity is a crucial field that focuses on protecting computer systems, networks, and data from cyber threats. Understanding the various technologies used in cybersecurity helps individuals and organizations defend against potential attacks. In this overview, we will explore key cybersecurity technologies.
 
-##### 5. Cybersecurity Technologies
+---
+
+### 5. Cybersecurity Technologies
 
 1. **Firewalls**
    - A firewall acts as a barrier between a trusted internal network and untrusted external networks (like the internet).
@@ -356,6 +360,8 @@ Cybersecurity is a crucial field that focuses on protecting computer systems, ne
 
 By understanding these fundamental cybersecurity technologies—firewalls, intrusion detection/prevention systems, antivirus software, encryption techniques, and multi-factor authentication—you can better appreciate how organizations protect their digital assets from cyber threats effectively!
 Cybersecurity is a vital field that focuses on protecting computers, networks, programs, and data from unauthorized access, damage, or attacks. Within this realm, network security is crucial in safeguarding the integrity of your network infrastructure.
+
+---
 
 ### 6. Network Security
 
@@ -413,6 +419,8 @@ By understanding these concepts within cybersecurity fundamentals—especially f
 Application security is a critical component of cybersecurity that focuses on protecting applications from threats throughout their lifecycle. This includes ensuring the software is designed, developed, and maintained with security in mind. The goal is to prevent vulnerabilities that could be exploited by attackers.
 
 ---
+
+### 7. Application Security
 
 ##### 7.1 Secure Coding Practices
 
@@ -478,7 +486,9 @@ Implementing a WAF adds an extra layer of defense around web applications, makin
 Understanding application security fundamentals is crucial for anyone involved in software development or IT operations today. By focusing on secure coding practices, rigorous testing methodologies, and leveraging tools like WAFs, organizations can protect their applications effectively against evolving cyber threats while maintaining user trust and data integrity.
 In today's digital age, protecting data is more essential than ever. Understanding the fundamentals of data security helps organizations safeguard sensitive information from unauthorized access and potential breaches. This overview will cover key concepts related to **data security**, including **data encryption**, **data masking**, and **data loss prevention (DLP)**.
 
-##### 8. Data Security
+---
+
+### 8. Data Security
 
 Data security refers to the measures taken to protect digital information from unauthorized access, corruption, or theft throughout its lifecycle. It encompasses various strategies and technologies designed to ensure that only authorized users can access specific data while maintaining its integrity and confidentiality.
 
@@ -542,7 +552,9 @@ Real-world applications:
 
 Understanding these fundamental concepts in cybersecurity—data security practices like encryption, masking techniques for safeguarding privacy, and proactive measures through DLP—is vital in today’s technology-driven world where threats abound constantly. By implementing these protective strategies effectively, individuals and organizations alike can significantly reduce risks associated with digital interactions involving sensitive information.
 
+---
 
+### 9. Identity and Access Management (IAM)
 
 Identity and Access Management (IAM) is a crucial aspect of cybersecurity that focuses on ensuring the right individuals have appropriate access to technology resources. IAM encompasses various processes, policies, and technologies used to manage digital identities and control user access based on defined permissions.
 
@@ -590,6 +602,12 @@ To effectively implement IAM in an organization:
 In conclusion, understanding these components—authentication, authorization, role-based access control, and identity governance—is essential for maintaining secure environments within any digital infrastructure. By managing who can see what information effectively, organizations can protect themselves against various cyber threats while enabling productivity among authorized users.
 In the realm of cybersecurity, managing incidents effectively is crucial for protecting information systems and data. This overview will cover three key aspects of incident response and management: **incident detection**, **incident handling**, and **post-incident analysis**. Each section will provide foundational knowledge along with practical examples.
 
+---
+
+### 10. Incident Response and Management
+
+Incident response and management is a critical component of cybersecurity that involves preparing for, detecting, responding to, and recovering from security incidents. These incidents can range from data breaches to malware infections, and effective management ensures that an organization can minimize damage while maintaining trust with stakeholders.
+
 ##### 10.1 Incident Detection
 
 **Incident detection** refers to identifying potential security breaches or anomalies in a system. The goal is to recognize incidents as early as possible to minimize damage.
@@ -632,6 +650,10 @@ After resolving an incident, conducting a post-incident analysis is vital for un
 
 Understanding these fundamental components—incident detection, handling, and post-incident analysis—is essential for anyone involved in cybersecurity efforts. By being proactive in detecting threats, responding effectively when they occur, and analyzing outcomes afterward, organizations can significantly improve their overall security posture against potential cyberattacks.
 In the realm of cybersecurity, having robust security policies and procedures is crucial for protecting an organization's information assets. This overview will delve into three key components: **security policy development**, **security awareness training**, and **compliance and regulatory requirements**.
+
+---
+
+### 11. Security Policies and Procedures
 
 ##### 11.1 Security Policy Development
 
@@ -695,6 +717,11 @@ Healthcare providers must comply with HIPAA by ensuring patient information is e
 Understanding these foundational elements—security policy development, awareness training programs, and compliance requirements—is vital for creating a secure environment within any organization. By implementing effective strategies around these areas, businesses can significantly reduce risks associated with cyber threats while fostering a culture of vigilance among employees.
 In the realm of cybersecurity, understanding ethical and legal issues is crucial for anyone involved in protecting information systems. This section delves into three key areas: cyber laws and regulations, ethical hacking, and privacy concerns.
 
+---
+
+### 12. Ethical and Legal Issues in Cybersecurity
+
+
 ##### 12.1 Cyber Laws and Regulations
 
 Cyber laws are designed to govern the use of technology and protect users' rights online. Here are some fundamental aspects:
@@ -738,6 +765,10 @@ Privacy concerns focus on how individuals' personal information is collected, us
 
 Understanding ethical and legal issues in cybersecurity helps individuals navigate complex environments where technology meets lawfulness and morality. By grasping concepts related to cyber laws, ethical hacking practices, and privacy concerns, one becomes better equipped to contribute positively within this field while ensuring compliance with established standards.
 Cybersecurity is a rapidly evolving field that addresses the protection of computer systems, networks, and data from digital attacks. As technology advances, new trends emerge that shape how we approach security in various domains. This overview will delve into some key emerging trends in cybersecurity.
+
+---
+
+### 13. Emerging Trends in Cybersecurity
 
 ##### 13.1 Artificial Intelligence in Cybersecurity
 
