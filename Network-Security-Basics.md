@@ -5,7 +5,7 @@
 
 #### Course Outline:
   
-[1.1 Introduction to Network Security]() 
+[1.1 Introduction to Network Security]()  
 [1.2 Types of Network Threats]()  
 [1.3 Network Security Measures]()  
 [1.4 Network Security Protocols]()  
