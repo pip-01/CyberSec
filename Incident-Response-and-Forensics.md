@@ -106,29 +106,29 @@ This refers to the methods used by organizations to prepare for, detect, contain
 
 ###### Key Phases of Incident Response:
 
-1. **Preparation**
+##### 1.1 Preparation
    - **Training**: Ensure all team members are trained on protocols.
    - **Tools**: Acquire necessary tools (e.g., firewalls, antivirus software).
    - **Policies**: Develop clear policies outlining roles and responsibilities.
 
-2. **Identification**
+##### 1.2 Identification
    - **Detection Tools**: Use monitoring systems to identify unusual activities.
    - **Alerts**: Respond promptly to alerts indicating potential breaches.
    - **Analysis**: Investigate anomalies to determine if they constitute an actual security incident.
 
-3. **Containment**
+##### 1.3 Containment
    - **Short-term Containment**: Immediately isolate affected systems or networks to prevent further damage.
    - **Long-term Containment**: Implement strategies that allow business operations while addressing vulnerabilities (e.g., applying patches).
 
-4. **Eradication**
+##### 1.4 Eradication
    - Remove malware or threats from infected systems.
    - Identify root causes (e.g., misconfigurations) that led to the incident.
 
-5. **Recovery**
+##### 1.5 Recovery
    - Restore affected systems back online after ensuring they are clean from threats.
    - Monitor systems closely for any signs of weaknesses or reinfection during this phase.
 
-6. **Lessons Learned**
+##### 1.6 Lessons Learned
     - Conduct post-incident analysis meetings with stakeholders involved in the response.
     - Document findings about what worked well and what didn’t; use these insights for improving future responses.
 
