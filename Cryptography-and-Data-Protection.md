@@ -6,9 +6,9 @@
 
 #### Course Outline:
   
-[1. Cybersecurity]()  
-[2. Cryptography]()
-[3. Data Protection]()
+[1. Cybersecurity](https://pip-01.github.io/CyberSec/Cryptography-and-Data-Protection#1-cybersecurity)  
+[2. Cryptography](https://pip-01.github.io/CyberSec/Cryptography-and-Data-Protection#2-cryptography)  
+[3. Data Protection](https://pip-01.github.io/CyberSec/Cryptography-and-Data-Protection#3-data-protection)  
 
 ---
 
@@ -77,6 +77,8 @@ Data protection involves safeguarding important information from corruption, com
 
 By understanding these core concepts within cybersecurity—cryptography's protective mechanisms alongside effective data protection strategies—you'll gain insights into how organizations secure their vital assets against ever-evolving threats in today's digital landscape!
 Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. These cyber threats can lead to unauthorized access to sensitive information, data breaches, and various forms of damage. Understanding the different aspects of cybersecurity is essential for anyone looking to safeguard their digital assets.
+
+---
 
 ### 1. Cybersecurity
 
