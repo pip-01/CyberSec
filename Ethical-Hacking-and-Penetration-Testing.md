@@ -1,3 +1,17 @@
+[Back to index page](https://pip-01.github.io/CyberSec/)
+
+  
+
+## <u>Cryptography and Data Protection</u>  
+
+#### Course Outline:
+  
+[1. What is Ethical Hacking?]()  
+[2. What is Penetration Testing?]()  
+ 
+
+---
+
 Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. These cyber threats can come in various forms such as malware, phishing schemes, or ransomware. Ethical hacking and penetration testing are two essential components within this field that focus on identifying vulnerabilities in systems before malicious hackers can exploit them.
 
 ---
@@ -87,7 +101,7 @@ Cybersecurity encompasses various strategies and technologies designed to safegu
 - **Integrity**: Maintaining the accuracy and completeness of data by preventing unauthorized modifications.
 - **Availability**: Ensuring that information and resources are available when needed by authorized users.
 
-##### What is Ethical Hacking?
+##### 1. What is Ethical Hacking?
 
 Ethical hacking involves simulating cyber attacks on a system with permission from the owner. The goal is to discover vulnerabilities so they can be fixed before they are exploited by malicious actors. Key aspects include:
 
@@ -99,7 +113,7 @@ Ethical hacking involves simulating cyber attacks on a system with permission fr
 1. **White Hat Hackers**: These professionals work for organizations as security experts who test systems for weaknesses.
 2. **Gray Hat Hackers**: They may not always have explicit permission but act without malicious intent; often reporting vulnerabilities after discovering them.
 
-##### What is Penetration Testing?
+##### 2. What is Penetration Testing?
 
 Penetration testing (often called pen testing) refers specifically to the practice of probing a system or network for vulnerabilities in a controlled manner. It typically follows a structured approach:
 
