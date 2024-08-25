@@ -6,7 +6,7 @@
 #### Course Outline:
   
 [1. Network Security Tools](https://pip-01.github.io/CyberSec/Tools-and-Platforms#1-network-security-tools)  
-[2. Endpoint Security Tools]()  
+[2. Endpoint Security Tools](https://pip-01.github.io/CyberSec/Tools-and-Platforms#2-endpoint-security-tools)  
 [3. Identity and Access Management (IAM) Tools]()  
 [4. Security Information and Event Management (SIEM)]()  
 [5. Vulnerability Management Tools]()  
@@ -75,7 +75,9 @@ Understanding the landscape of cybersecurity tools is vital for anyone involved 
 By familiarizing yourself with these concepts—whether you're managing your personal devices or working within an enterprise environment—you'll gain valuable insights into how best practices in cybersecurity contribute significantly towards safeguarding your digital presence!
 Cybersecurity is crucial in protecting sensitive data and maintaining the integrity of networks. Among various tools available, **network security tools** play a vital role in safeguarding information systems from unauthorized access or attacks. Below, we will explore some essential network security tools, including firewalls, intrusion detection systems (IDS), intrusion prevention systems (IPS), and network access control (NAC).
 
-##### 1. Network Security Tools
+---
+
+### 1. Network Security Tools
 
 Network security tools are designed to monitor and protect the integrity of networks. They help prevent unauthorized access, detect potential threats, and respond to incidents effectively.
 
@@ -124,6 +126,8 @@ Network security tools are designed to monitor and protect the integrity of netw
 Understanding these fundamental cybersecurity tools helps organizations build robust defenses against cyber threats. By implementing firewalls, IDS, IPS, and NAC solutions strategically, businesses can significantly enhance their overall cybersecurity posture while ensuring that their sensitive information remains protected from unauthorized access or breaches.
 Cybersecurity is a critical field dedicated to protecting systems, networks, and data from cyber threats. Among the various cybersecurity tools available, **endpoint security tools** play a vital role in safeguarding devices that connect to corporate networks. These endpoints can include computers, laptops, smartphones, and tablets.
 
+---
+
 ### 2. Endpoint Security Tools
 
 Endpoint security tools are designed to protect these devices from potential threats such as malware, ransomware, and unauthorized access. Here’s an overview of some key endpoint security tools:
@@ -160,6 +164,10 @@ Endpoint security tools are designed to protect these devices from potential thr
 
 Understanding these fundamental components of endpoint security helps organizations effectively safeguard their digital assets against evolving cyber threats. By leveraging various endpoint security tools—like antivirus software for basic protection; EDR for advanced monitoring; MDM for managing mobile devices; and EPP for comprehensive coverage—organizations can create robust defenses tailored to their specific needs in today's interconnected world.
 Identity and Access Management (IAM) tools are critical components in cybersecurity. They help organizations manage digital identities and control user access to various resources within an organization. By implementing IAM solutions, businesses can enhance security, ensure compliance, and streamline user management processes.
+
+---
+
+### 3. Identity and Access Management (IAM) Tools
 
 ##### Key Components of IAM Tools
 
@@ -201,7 +209,11 @@ Identity and Access Management (IAM) tools are critical components in cybersecur
 Understanding these IAM tools is essential for anyone looking to strengthen their organization's cybersecurity framework. Each component plays a unique role in protecting sensitive information while ensuring that legitimate users can easily navigate through necessary resources without unnecessary barriers. By integrating MFA, SSO, PAM, and IGA into your security strategy, you can create a comprehensive approach that balances usability with robust protection against potential threats.
 Security Information and Event Management (SIEM) is a critical component in the realm of cybersecurity. It integrates security information management (SIM) and security event management (SEM) into one unified solution, enabling organizations to detect, analyze, respond to, and report on security incidents.
 
-### Key Components of SIEM
+---
+
+### 4. Security Information and Event Management (SIEM)
+
+##### Key Components of SIEM
 
 1. **Log Management**
    - **Definition**: Log management involves collecting, storing, analyzing, and managing log data from various sources within an organization’s IT infrastructure.
@@ -235,6 +247,8 @@ Security Information and Event Management (SIEM) is a critical component in the 
 
 In summary, SIEM plays a pivotal role in enhancing an organization's cybersecurity posture. By integrating log management, leveraging security analytics for deeper insights, implementing robust threat detection mechanisms, and establishing effective incident response protocols, organizations can better protect themselves against ever-evolving cyber threats. Proper utilization of these components not only aids in immediate threat mitigation but also fosters long-term resilience against future attacks.
 In today's digital age, protecting information systems from threats is more critical than ever. Cybersecurity tools and platforms are essential for identifying, managing, and mitigating vulnerabilities within an organization’s IT infrastructure. One key area within cybersecurity is **vulnerability management**, which focuses on identifying weaknesses in systems that could be exploited by attackers.
+
+---
 
 ### 5. Vulnerability Management Tools
 
@@ -279,7 +293,9 @@ Vulnerability management involves a systematic approach to securing your organiz
 Understanding these vulnerability management tools equips organizations with the necessary means to proactively protect their assets against potential threats. By integrating vulnerability scanners, effective patch management practices, configuration oversight, and penetration testing into their cybersecurity strategy, businesses can significantly reduce risks associated with cyber threats while enhancing their overall security posture.
 In today's digital age, protecting data is crucial for individuals and organizations alike. Data protection tools help safeguard sensitive information from unauthorized access, loss, or corruption. Below is a detailed overview of key data protection tools.
 
-##### 6. Data Protection Tools
+---
+
+### 6. Data Protection Tools
 
 Data protection tools are essential components of a comprehensive cybersecurity strategy. They help ensure that sensitive information remains confidential, intact, and accessible when needed. Here are some critical types:
 
@@ -316,6 +332,8 @@ Data protection tools are essential components of a comprehensive cybersecurity 
 
 Understanding these fundamental data protection tools helps individuals and organizations build robust defenses against potential threats targeting their sensitive information. Implementing effective strategies involving DLP systems, encryption methods, reliable backup solutions, and CASBs ensures better overall security posture in today’s rapidly evolving cyber landscape.
 In the realm of cybersecurity, tools and platforms play a crucial role in protecting organizations from threats. Among these tools, **threat intelligence platforms** are essential for gathering, analyzing, and sharing information about potential cyber threats. Below is an extensive overview focusing on threat intelligence platforms and their components.
+
+---
 
 ##### 7. Threat Intelligence Platforms
 
@@ -380,6 +398,10 @@ An example would be using Elastic Stack combined with machine learning algorithm
 Understanding how each component works within the framework of cybersecurity enhances an organization's ability to defend itself against evolving cyber threats effectively! By leveraging threat intelligence platforms alongside feeds, analysis techniques, sharing initiatives, and hunting capabilities—organizations can create a robust defense strategy tailored specifically for their needs!
 In the realm of cybersecurity, particularly within the context of DevOps, various tools and platforms play a critical role in ensuring that software applications are secure throughout their development lifecycle. This overview will cover several key tools used in Secure DevOps, including Static Application Security Testing (SAST), Dynamic Application Security Testing (DAST), Software Composition Analysis (SCA), and Container Security.
 
+---
+
+### 8. Secure DevOps Tools
+
 ##### 8.1 Static Application Security Testing (SAST)
 
 **Definition:**  
@@ -438,6 +460,10 @@ If a tech startup uses Docker containers for microservices architecture, impleme
 Understanding these cybersecurity tools—SAST, DAST, SCA, and Container Security—is essential in protecting applications developed under the DevOps model. Each tool serves its unique purpose but collectively strengthens the overall security posture by addressing different stages of software development and deployment processes effectively. Integrating these practices into daily workflows ensures robust protection against evolving cyber threats while fostering a culture of security awareness among developers and operations teams alike.
 As organizations increasingly migrate their operations to the cloud, ensuring the security of these environments becomes vital. Cloud security tools help protect data, applications, and infrastructures in cloud computing. Below is an overview of key components within this domain.
 
+---
+
+### 9. Cloud Security Tools
+
 ##### 9.1 Cloud Security Posture Management (CSPM)
 
 - **Definition**: CSPM refers to a set of tools designed to improve an organization's security posture by identifying and managing risks in cloud environments.
@@ -482,7 +508,9 @@ As organizations increasingly migrate their operations to the cloud, ensuring th
 Understanding these essential components—CSPM, CWPP, CIEM, and encryption—is crucial as organizations leverage more complex multi-cloud architectures. Each tool plays a unique role in fortifying defenses against potential threats while maintaining compliance with industry regulations. By implementing these tools effectively, businesses can significantly enhance their overall cybersecurity posture in the evolving landscape of digital transformation.
 Cybersecurity is a critical field that focuses on protecting systems, networks, and data from cyber threats. To effectively manage these threats, various tools and platforms are employed. Below is an extensive overview of key categories within cybersecurity tools, particularly focusing on incident response.
 
-##### 10. Incident Response Tools
+---
+
+### 10. Incident Response Tools
 
 Incident response tools are essential for detecting, responding to, and recovering from security incidents. They help organizations minimize damage during a breach or attack.
 
@@ -551,6 +579,10 @@ Example:
 
 Understanding these categories of cybersecurity tools—incident response tools, forensic analysis software, incident management platforms, SOAR solutions, and BAS technologies—is vital in building robust defenses against cyber threats. By leveraging these resources effectively, organizations can improve their ability to detect breaches early on while minimizing damage through quick recovery strategies.
 In today's digital landscape, cybersecurity is paramount for organizations to protect sensitive information. One critical aspect of cybersecurity is **security awareness and training**, which helps employees recognize potential threats and respond appropriately. This overview will delve into key components of security awareness training, including phishing simulations, training platforms, compliance training, and role-based training.
+
+---
+
+### 11. Security Awareness and Training
 
 ##### 11.1 Phishing Simulation
 
