@@ -137,6 +137,8 @@ Penetration testing (often called pen testing) refers specifically to the practi
 5. **Reporting**
    - Document findings with recommendations for remediation based on risk levels.
 
+---
+
 ###### Common Tools Used in Penetration Testing
 
 - **Nmap**: For network discovery and security auditing.
@@ -155,6 +157,8 @@ In summary, cybersecurity plays a crucial role in safeguarding digital assets ag
 This overview provides foundational knowledge about cybersecurity ethical hacking and penetration testing while emphasizing practical applications relevant today!
 In today's digital age, the importance of cybersecurity cannot be overstated. As organizations increasingly rely on technology for their operations, protecting sensitive information from cyber threats has become a top priority. Within this field, ethical hacking and penetration testing play crucial roles in safeguarding systems against malicious attacks.
 
+---
+
 ##### What is Ethical Hacking?
 
 Ethical hacking involves the authorized practice of probing computer systems, networks, and applications to identify vulnerabilities that could be exploited by malicious hackers. Unlike traditional hacking, ethical hackers work with permission from the organization to improve security measures.
@@ -163,6 +167,8 @@ Ethical hacking involves the authorized practice of probing computer systems, ne
 - **Authorization:** Ethical hackers obtain permission before conducting any tests.
 - **Intent:** Their goal is to enhance security rather than exploit weaknesses.
 - **Reporting:** Findings are documented and shared with stakeholders for remediation.
+
+---
 
 ##### What is Penetration Testing?
 
@@ -189,6 +195,8 @@ Both ethical hacking and penetration testing serve essential functions in mainta
 4. **Building Trust:**
    - Demonstrating proactive measures in cybersecurity enhances customer trust and brand reputation.
 
+---
+
 ##### Practical Example
 
 Imagine a bank that handles millions of transactions daily online:
@@ -205,6 +213,8 @@ By addressing these findings promptly, the bank significantly reduces its risk p
 
 Ethical hacking and penetration testing are vital components in defending against cyber threats today. By understanding how these practices work together within cybersecurity frameworks, organizations can better protect themselves while ensuring compliance with industry standards—ultimately leading toward safer digital environments for everyone involved!
 Penetration testing, often referred to as "pen testing," is a crucial aspect of cybersecurity that involves simulating cyberattacks on systems, networks, or applications to identify vulnerabilities and weaknesses. The goal is to strengthen security measures before malicious hackers can exploit these vulnerabilities.
+
+---
 
 ##### What is Penetration Testing?
 
@@ -223,6 +233,8 @@ Penetration testing is a proactive approach to identifying security flaws by mim
 3. **Gray Box Testing**
    - **Definition**: Testers have partial knowledge about the system.
    - **Example**: A tester may know some details about user roles but not the entire infrastructure.
+
+---
 
 ##### Phases of Penetration Testing
 
@@ -244,6 +256,8 @@ Penetration testing is a proactive approach to identifying security flaws by mim
 
 6. **Reporting & Remediation Recommendations**
     - Document findings clearly, detailing exploited vulnerabilities, data accessed, and recommendations for fixes.
+
+---
 
 ##### Tools Used in Penetration Testing
 
