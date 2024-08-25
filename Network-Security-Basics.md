@@ -1,3 +1,20 @@
+[Back to index page](https://pip-01.github.io/CyberSec/)
+
+  
+## <u>Network Security Basics</u>  
+
+#### Course Outline:
+  
+[1.1 Introduction to Network Security]() 
+[1.2 Types of Network Threats]()  
+[1.3 Network Security Measures]()  
+[1.4 Network Security Protocols]()  
+[1.5 Firewalls and VPNs]()  
+[1.6 Intrusion Detection and Prevention Systems]()  
+[1.7 Network Security Best Practices]()  
+[1.8 Wireless Network Security]()  
+[1.9 Securing Network Devices]()  
+[1.10 Network Security Policies and Procedures]()  
 
 Cybersecurity is a critical field that focuses on protecting computer systems, networks, and data from theft, damage, or unauthorized access. Within this broad area, network security specifically deals with the protection of networks—both hardware and software—from various threats.
 
@@ -45,10 +62,10 @@ Understanding these basics provides a solid foundation in cybersecurity network 
 
 Network security is a critical component of cybersecurity that focuses on protecting the integrity, confidentiality, and availability of computer networks. This overview will guide you through essential concepts in network security, outlining key areas to understand.
 
-##### 1. Introduction to Network Security
+##### 1. Introduction to Network Security  
 Network security involves implementing measures to protect data during transmission over networks. Think of it as locking your doors and windows at home; just as you want to keep intruders out, you want to prevent unauthorized access to your digital information.
 
-##### 1.2 Types of Network Threats
+##### 1.2 Types of Network Threats  
 Understanding potential threats is crucial for effective protection. Here are some common types:
 
 - **Malware**: Malicious software designed to harm or exploit devices (e.g., viruses, worms).
@@ -56,14 +73,14 @@ Understanding potential threats is crucial for effective protection. Here are so
 - **Denial-of-Service (DoS)**: Attacks aimed at making a network resource unavailable, often overwhelming it with traffic.
 - **Man-in-the-Middle (MitM)**: Interception and alteration of communication between two parties without their knowledge.
 
-##### 1.3 Network Security Measures
+##### 1.3 Network Security Measures  
 To safeguard against threats, various measures can be employed:
 
 - **Encryption**: Scrambling data so only authorized users can read it.
 - **Access Control**: Ensuring that only authorized personnel have access to specific resources.
 - **Regular Updates**: Keeping software and systems updated helps patch vulnerabilities.
 
-##### 1.4 Network Security Protocols
+##### 1.4 Network Security Protocols  
 Protocols establish rules for secure communication over networks. Some important ones include:
 
 - **SSL/TLS**: Secure Sockets Layer/Transport Layer Security encrypts internet connections.
@@ -71,7 +88,7 @@ Protocols establish rules for secure communication over networks. Some important
   
 These protocols help ensure that data remains confidential and unaltered during transmission.
 
-##### 1.5 Firewalls and VPNs
+##### 1.5 Firewalls and VPNs  
 Firewalls act like barriers that control incoming and outgoing network traffic based on predetermined security rules:
 
 - They block unauthorized access while allowing legitimate communication.
@@ -80,7 +97,7 @@ Virtual Private Networks (VPNs) create secure connections over the internet by e
 
 - They allow remote users safe access to private networks as if they were directly connected locally.
 
-##### 1.6 Intrusion Detection and Prevention Systems (IDPS)
+##### 1.6 Intrusion Detection and Prevention Systems  
 IDPS monitor network traffic for suspicious activity or policy violations:
 
 - **Intrusion Detection System (IDS)** identifies potential threats but does not take action against them.
