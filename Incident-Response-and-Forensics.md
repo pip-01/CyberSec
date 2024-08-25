@@ -6,7 +6,19 @@
 #### Course Outline:
   
 [1. Cybersecurity Incident Response](https://pip-01.github.io/CyberSec/Incident-Response-and-Forensics#key-phases-of-incident-response)  
+  [1.1 Preparation](https://pip-01.github.io/CyberSec/Incident-Response-and-Forensics#11-preparation)  
+  [1.2 Identification](https://pip-01.github.io/CyberSec/Incident-Response-and-Forensics#12-identification)  
+  [1.3 Containment](https://pip-01.github.io/CyberSec/Incident-Response-and-Forensics#13-containment)  
+  [1.4 Eradication](https://pip-01.github.io/CyberSec/Incident-Response-and-Forensics#14-eradication)  
+  [1.5 Recovery](https://pip-01.github.io/CyberSec/Incident-Response-and-Forensics#15-recovery)  
+  [1.6 Lessons Learned](https://pip-01.github.io/CyberSec/Incident-Response-and-Forensics#16-lessons-learned)  
 [2. Cybersecurity Forensics](https://pip-01.github.io/CyberSec/Incident-Response-and-Forensics#2-cybersecurity-forensics)  
+  [2.1 Evidence Collection](https://pip-01.github.io/CyberSec/Incident-Response-and-Forensics#21-evidence-collection)  
+  [2.2 Evidence Preservation](https://pip-01.github.io/CyberSec/Incident-Response-and-Forensics#22-evidence-preservation)  
+  [2.3 Evidence Analysis](https://pip-01.github.io/CyberSec/Incident-Response-and-Forensics#23-evidence-analysis)  
+  [2.4 Evidence Documentation](https://pip-01.github.io/CyberSec/Incident-Response-and-Forensics#24-evidence-documentation)  
+  [2.5 Evidence Presentation](https://pip-01.github.io/CyberSec/Incident-Response-and-Forensics#25-evidence-presentation)  
+  [2.6 Legal Considerations](https://pip-01.github.io/CyberSec/Incident-Response-and-Forensics#26-legal-considerations)  
 
 ---
 
@@ -98,7 +110,9 @@ Imagine you work at a company where an employee notices unusual login attempts o
 
 By understanding both cybersecurity incident response processes alongside forensic techniques—you’ll not only enhance your capability but also contribute meaningfully towards creating safer environments against evolving threats!
 
-Cybersecurity incident response and forensics is a structured approach to managing and mitigating the consequences of cybersecurity incidents. The goal is to handle the situation in a way that limits damage, reduces recovery time, and minimizes costs. Understanding this process involves several key stages:
+Cybersecurity incident response and forensics is a structured approach to managing and mitigating the consequences of cybersecurity incidents. The goal is to handle the situation in a way that limits damage, reduces recovery time, and minimizes costs. Understanding this process involves several key stages.
+
+---
 
 ### 1. Cybersecurity Incident Response
 
