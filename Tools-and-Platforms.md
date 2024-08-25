@@ -1,3 +1,23 @@
+[Back to index page](https://pip-01.github.io/CyberSec/)
+
+  
+## <u>Tools and Platforms</u>  
+
+#### Course Outline:
+  
+[1. Network Security Tools](https://pip-01.github.io/CyberSec/Tools-and-Platforms#1-network-security-tools)  
+[2. Endpoint Security Tools]()  
+[3. Identity and Access Management (IAM) Tools]()  
+[4. Security Information and Event Management (SIEM)]()  
+[5. Vulnerability Management Tools]()  
+[6. Data Protection Tools]()  
+[7. Threat Intelligence Platforms]()  
+[8. Secure DevOps Tools]()  
+[9. Cloud Security Tools]()  
+[10. Incident Response Tools]()  
+[11. Security Awareness and Training]()  
+
+---
 In today's digital age, cybersecurity is more critical than ever. With the increasing number of cyber threats, organizations need to employ various tools and platforms to protect their data, networks, and systems. This overview will break down the essential components of cybersecurity tools and platforms, including their types, functionalities, and importance.
 
 ##### Types of Cybersecurity Tools
