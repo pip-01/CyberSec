@@ -101,6 +101,8 @@ Cybersecurity encompasses various strategies and technologies designed to safegu
 - **Integrity**: Maintaining the accuracy and completeness of data by preventing unauthorized modifications.
 - **Availability**: Ensuring that information and resources are available when needed by authorized users.
 
+---
+
 ##### 1. What is Ethical Hacking?
 
 Ethical hacking involves simulating cyber attacks on a system with permission from the owner. The goal is to discover vulnerabilities so they can be fixed before they are exploited by malicious actors. Key aspects include:
@@ -112,6 +114,8 @@ Ethical hacking involves simulating cyber attacks on a system with permission fr
 
 1. **White Hat Hackers**: These professionals work for organizations as security experts who test systems for weaknesses.
 2. **Gray Hat Hackers**: They may not always have explicit permission but act without malicious intent; often reporting vulnerabilities after discovering them.
+
+---
 
 ##### 2. What is Penetration Testing?
 
