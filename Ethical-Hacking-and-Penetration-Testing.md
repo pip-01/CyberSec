@@ -2,12 +2,12 @@
 
   
 
-## <u>Cryptography and Data Protection</u>  
+## <u>Ethical Hacking and Penetration Testing</u>  
 
 #### Course Outline:
   
-[1. What is Ethical Hacking?]()  
-[2. What is Penetration Testing?]()  
+[1. What is Ethical Hacking?](https://pip-01.github.io/CyberSec/Ethical-Hacking-and-Penetration-Testing#what-is-ethical-hacking)  
+[2. What is Penetration Testing?](https://pip-01.github.io/CyberSec/Ethical-Hacking-and-Penetration-Testing#2-what-is-penetration-testing)  
  
 
 ---
@@ -35,7 +35,7 @@ Cybersecurity is the practice of protecting systems, networks, and programs from
 
 ---
 
-##### What is Ethical Hacking?
+##### 1. What is Ethical Hacking?
 
 Ethical hacking involves authorized individuals simulating an attack on a computer system with the goal of finding vulnerabilities before they can be exploited by malicious hackers. Here are some key points:
 
@@ -103,7 +103,7 @@ Cybersecurity encompasses various strategies and technologies designed to safegu
 
 ---
 
-##### 1. What is Ethical Hacking?
+##### What is Ethical Hacking?
 
 Ethical hacking involves simulating cyber attacks on a system with permission from the owner. The goal is to discover vulnerabilities so they can be fixed before they are exploited by malicious actors. Key aspects include:
 
