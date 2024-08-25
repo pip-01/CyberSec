@@ -93,6 +93,8 @@ Cybersecurity is a critical field that focuses on protecting computers, networks
 Understanding cybersecurity fundamentals equips individuals with knowledge about how systems work together securely while highlighting potential vulnerabilities they must guard against in today’s interconnected world—an essential skill set in our increasingly digital lives!
 Cybersecurity is a vital field that focuses on protecting computer systems, networks, and data from theft, damage, or unauthorized access. As our reliance on technology grows, so does the need to safeguard sensitive information against cyber threats. Understanding cybersecurity fundamentals helps individuals and organizations defend themselves against the ever-evolving landscape of digital risks.
 
+---
+
 ##### 1.1 Definition of Cybersecurity
 
 Cybersecurity refers to the practice of protecting computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks or unauthorized access. It encompasses various measures designed to secure information technology (IT) infrastructure and ensure confidentiality, integrity, and availability of data.
