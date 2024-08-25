@@ -1,7 +1,7 @@
-This is the index page to all of the General knowledge website pages.  
+### CyberSecurity 8 Courses to follow:
   
   
-### Index of courses to learn:
+#### Index of courses to learn:
 [1. Introduction-to-Cybersecurity-Fundamentals](https://pip-01.github.io/CyberSec/Introduction-to-Cybersecurity-Fundamentals)  
 [2. Network-Security-Basics](https://pip-01.github.io/CyberSec/Network-Security-Basics)  
 [3. Cryptography-and-Data-Protection](https://pip-01.github.io/CyberSec/Cryptography-and-Data-Protection)  
