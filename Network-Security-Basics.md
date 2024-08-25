@@ -16,6 +16,8 @@
 [1.9 Securing Network Devices]()  
 [1.10 Network Security Policies and Procedures]()  
 
+---
+
 Cybersecurity is a critical field that focuses on protecting computer systems, networks, and data from theft, damage, or unauthorized access. Within this broad area, network security specifically deals with the protection of networks—both hardware and software—from various threats.
 
 ##### Key Concepts in Network Security
@@ -65,6 +67,8 @@ Network security is a critical component of cybersecurity that focuses on protec
 ##### 1. Introduction to Network Security  
 Network security involves implementing measures to protect data during transmission over networks. Think of it as locking your doors and windows at home; just as you want to keep intruders out, you want to prevent unauthorized access to your digital information.
 
+---
+
 ##### 1.2 Types of Network Threats  
 Understanding potential threats is crucial for effective protection. Here are some common types:
 
@@ -73,12 +77,16 @@ Understanding potential threats is crucial for effective protection. Here are so
 - **Denial-of-Service (DoS)**: Attacks aimed at making a network resource unavailable, often overwhelming it with traffic.
 - **Man-in-the-Middle (MitM)**: Interception and alteration of communication between two parties without their knowledge.
 
+---
+
 ##### 1.3 Network Security Measures  
 To safeguard against threats, various measures can be employed:
 
 - **Encryption**: Scrambling data so only authorized users can read it.
 - **Access Control**: Ensuring that only authorized personnel have access to specific resources.
 - **Regular Updates**: Keeping software and systems updated helps patch vulnerabilities.
+
+---
 
 ##### 1.4 Network Security Protocols  
 Protocols establish rules for secure communication over networks. Some important ones include:
@@ -87,6 +95,8 @@ Protocols establish rules for secure communication over networks. Some important
 - **IPSec**: Internet Protocol Security secures internet protocol communications by authenticating and encrypting each IP packet.
   
 These protocols help ensure that data remains confidential and unaltered during transmission.
+
+---
 
 ##### 1.5 Firewalls and VPNs  
 Firewalls act like barriers that control incoming and outgoing network traffic based on predetermined security rules:
@@ -97,6 +107,8 @@ Virtual Private Networks (VPNs) create secure connections over the internet by e
 
 - They allow remote users safe access to private networks as if they were directly connected locally.
 
+---
+
 ##### 1.6 Intrusion Detection and Prevention Systems  
 IDPS monitor network traffic for suspicious activity or policy violations:
 
@@ -106,6 +118,8 @@ IDPS monitor network traffic for suspicious activity or policy violations:
 
 Both systems are vital for early detection of attacks.
 
+---
+
 ##### 1.7 Network Security Best Practices
 Adopting best practices enhances overall security posture:
 
@@ -113,6 +127,8 @@ Adopting best practices enhances overall security posture:
 2. Use strong passwords combined with multi-factor authentication (MFA).
 3. Conduct regular security audits and assessments.
 4. Educate employees about phishing scams and social engineering tactics.
+
+---
 
 ##### 1.8 Wireless Network Security
 Wireless networks pose unique challenges due to their open nature:
@@ -123,6 +139,7 @@ Wireless networks pose unique challenges due to their open nature:
  - Change default router settings such as SSID names and passwords immediately upon setup.
  - Disable broadcasting SSIDs when possible for added privacy.
 
+---
 
 ##### 1.9 Securing Network Devices
 All devices connected to a network must be secured effectively:
@@ -132,6 +149,7 @@ All devices connected to a network must be secured effectively:
  - Keep firmware updated on routers, switches, etc., regularly checking manufacturer websites for updates.
  - Disable unused services or ports on devices which could serve as entry points for attackers.
 
+---
 
  ##### 1.10 Network Security Policies and Procedures
 Establishing clear policies ensures everyone understands their role in maintaining security within an organization:
