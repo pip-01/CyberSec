@@ -5,9 +5,26 @@
 
 #### Course Outline:
   
-[]()  
-[]()  
-[]()  
+[1. Advanced Persistent Threats (APTs)](https://pip-01.github.io/CyberSec/Advanced-Topics-in-Cybersecurity#1-advanced-persistent-threats-apts)  
+[2. Zero-Day Vulnerabilities](https://pip-01.github.io/CyberSec/Advanced-Topics-in-Cybersecurity#2-zero-day-vulnerabilities)  
+[3. Cryptographic Attacks](https://pip-01.github.io/CyberSec/Advanced-Topics-in-Cybersecurity#3-cryptographic-attacks)  
+[4. Machine Learning and AI in Cybersecurity](https://pip-01.github.io/CyberSec/Advanced-Topics-in-Cybersecurity#4-machine-learning-and-ai-in-cybersecurity)  
+[5. Blockchain Security](https://pip-01.github.io/CyberSec/Advanced-Topics-in-Cybersecurity#5-blockchain-security)  
+[6. Cloud Security](https://pip-01.github.io/CyberSec/Advanced-Topics-in-Cybersecurity#6-cloud-security)  
+[7. Internet of Things (IoT) Security](https://pip-01.github.io/CyberSec/Advanced-Topics-in-Cybersecurity#7-internet-of-things-iot-security)  
+[8. Cyber-Physical Systems Security](https://pip-01.github.io/CyberSec/Advanced-Topics-in-Cybersecurity#8-cyber-physical-systems-security)  
+[9. Cyber Threat Intelligence](https://pip-01.github.io/CyberSec/Advanced-Topics-in-Cybersecurity#9-cyber-threat-intelligence)  
+[10. Cybersecurity for Critical Infrastructure](https://pip-01.github.io/CyberSec/Advanced-Topics-in-Cybersecurity#10-cybersecurity-for-critical-infrastructure)  
+[11. Insider Threats](https://pip-01.github.io/CyberSec/Advanced-Topics-in-Cybersecurity#11-insider-threats)  
+[12. Advanced Malware Analysis](https://pip-01.github.io/CyberSec/Advanced-Topics-in-Cybersecurity#12-advanced-malware-analysis)  
+[13. Secure Software Development](https://pip-01.github.io/CyberSec/Advanced-Topics-in-Cybersecurity#13-secure-software-development)  
+[14. Cyber Law and Ethics](https://pip-01.github.io/CyberSec/Advanced-Topics-in-Cybersecurity#14-cyber-law-and-ethics)  
+[15. Cybersecurity Frameworks and Standards](https://pip-01.github.io/CyberSec/Advanced-Topics-in-Cybersecurity#15-cybersecurity-frameworks-and-standards)  
+[16. Advanced Network Security](https://pip-01.github.io/CyberSec/Advanced-Topics-in-Cybersecurity#16-advanced-network-security)  
+[17. Forensics and Incident Response](https://pip-01.github.io/CyberSec/Advanced-Topics-in-Cybersecurity#17-forensics-and-incident-response)  
+[18. Social Engineering Attacks](https://pip-01.github.io/CyberSec/Advanced-Topics-in-Cybersecurity#18-social-engineering-attacks)  
+[19. Privacy Enhancing Technologies](https://pip-01.github.io/CyberSec/Advanced-Topics-in-Cybersecurity#19-privacy-enhancing-technologies)  
+[20. Cybersecurity Metrics and Measurements](https://pip-01.github.io/CyberSec/Advanced-Topics-in-Cybersecurity#20-cybersecurity-metrics-and-measurements)  
 
 ---
 
@@ -586,8 +603,6 @@ Cyber threat intelligence (CTI) is the process of collecting, analyzing, and uti
   
 - **Example:** A company might use a TIP to consolidate threat feed information from vendors like CrowdStrike or Recorded Future while also incorporating its own incident reports for comprehensive analysis.
 
----
-
 #### 9.2 Threat Hunting
 
 **Threat hunting** refers to the proactive search for signs of malicious activity within an organization's network before any attacks occur or are detected by traditional security systems.
@@ -604,8 +619,6 @@ Cyber threat intelligence (CTI) is the process of collecting, analyzing, and uti
   - Early detection of threats helps mitigate potential damage.
   
 - **Example:** A cybersecurity team may deploy advanced analytics tools that sift through logs looking for unusual login attempts at odd hours—indicating possible unauthorized access attempts—and investigate further if anomalies are found.
-
----
 
 #### 9.3 Threat Attribution
 
@@ -624,8 +637,6 @@ Cyber threat intelligence (CTI) is the process of collecting, analyzing, and uti
     * Knowing who is behind an attack can inform defensive strategies as well as legal ramifications against perpetrators when applicable.
     
 - **Example:** If a series of ransomware attacks have characteristics similar to those previously attributed to a particular hacker group operating out of Eastern Europe, analysts will consider this group's historical behavior when preparing defenses against future incidents.
-
---- 
 
 ### Conclusion
 
@@ -1023,7 +1034,9 @@ Consider a financial institution creating its secure architecture:
 Understanding these advanced topics in cybersecurity equips individuals with essential knowledge necessary for safeguarding modern digital environments against evolving threats. By mastering concepts like network segmentation, intrusion detection/prevention systems, and secure architectures, organizations can create robust defense mechanisms tailored to their unique needs while fostering overall resilience against cyber attacks.
 In today's digital landscape, cybersecurity is crucial for protecting sensitive information and maintaining the integrity of systems. Among the advanced topics in this field, **forensics** and **incident response** play vital roles in identifying, managing, and mitigating cyber threats. This overview will cover key aspects of these topics.
 
-##### 17. Forensics and Incident Response
+---
+
+### 17. Forensics and Incident Response
 
 Forensics refers to the process of collecting, preserving, analyzing, and presenting evidence from digital devices to understand what happened during a security incident. Incident response encompasses the strategies employed to prepare for, detect, respond to, and recover from cybersecurity incidents.
 
@@ -1155,7 +1168,7 @@ In today's digital world, privacy is a critical concern. As data breaches and su
 
 ---
 
-##### 19. Privacy Enhancing Technologies
+### 19. Privacy Enhancing Technologies
 Privacy enhancing technologies are methods or systems designed to safeguard user data while still allowing for its analysis and use. They aim to minimize the exposure of sensitive information during processing or sharing.
 
 Key benefits of PETs include:
